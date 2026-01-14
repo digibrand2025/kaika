@@ -1,9 +1,9 @@
 <?php
 // Database configuration
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'kaikkfmd_kaika_holdings');
-define('DB_USER', 'kaikkfmd_kaika_holdings'); // Change this
-define('DB_PASS', '(B3K}gG2w*wB'); // Change this
+define('DB_NAME', 'kaika_holdings');
+define('DB_USER', 'root'); // Change this
+define('DB_PASS', ''); // Change this
 
 // Site configuration
 define('SITE_URL', 'http://localhost/kaika-holdings'); // Change to your domain

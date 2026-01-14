@@ -188,7 +188,7 @@ include 'includes/header.php';
                         <div class="relative group order-2 lg:order-1">
                             <div class="absolute -inset-4 bg-gradient-to-r from-orange-500 to-red-600 rounded-2xl blur opacity-25 group-hover:opacity-40 transition duration-1000"></div>
                             <div class="relative rounded-2xl overflow-hidden shadow-2xl h-[400px]">
-                                <img src="https://images.unsplash.com/photo-1579631542720-3a87824fff86?auto=format&fit=crop&q=80&w=800" class="w-full h-full object-cover transform group-hover:scale-105 transition duration-700" alt="Kamikura">
+                                <img src="https://wallpapercat.com/w/full/5/8/8/610794-3840x2160-desktop-4k-sushi-background.jpg" class="w-full h-full object-cover transform group-hover:scale-105 transition duration-700" alt="Kamikura">
                                 <div class="absolute inset-0 bg-gradient-to-t from-slate-900/90 via-slate-900/50 to-transparent"></div>
                             </div>
                         </div>
@@ -304,7 +304,7 @@ include 'includes/header.php';
                         <div class="relative group">
                             <div class="absolute -inset-4 bg-gradient-to-r from-sky-500 to-blue-600 rounded-2xl blur opacity-25 group-hover:opacity-40 transition duration-1000"></div>
                             <div class="relative rounded-2xl overflow-hidden shadow-2xl h-[400px]">
-                                <img src="https://images.unsplash.com/photo-1488085061387-422e29b40080?auto=format&fit=crop&q=80&w=800" class="w-full h-full object-cover transform group-hover:scale-105 transition duration-700" alt="Kaika Travel and Tourism">
+                                <img src="../blog/uploads/Kaika_travels.png" class="w-full h-full object-cover transform group-hover:scale-105 transition duration-700" alt="Kaika Travel and Tourism">
                                 <div class="absolute inset-0 bg-gradient-to-t from-slate-900/90 via-slate-900/50 to-transparent"></div>
                             </div>
                         </div>
@@ -317,7 +317,7 @@ include 'includes/header.php';
                         <div class="relative group order-2 lg:order-1">
                             <div class="absolute -inset-4 bg-gradient-to-r from-indigo-500 to-purple-600 rounded-2xl blur opacity-25 group-hover:opacity-40 transition duration-1000"></div>
                             <div class="relative rounded-2xl overflow-hidden shadow-2xl h-[400px]">
-                                <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&q=80&w=800" class="w-full h-full object-cover transform group-hover:scale-105 transition duration-700" alt="Legend">
+                                <img src="https://images.unsplash.com/photo-1612977060650-77024e7aac63?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="w-full h-full object-cover transform group-hover:scale-105 transition duration-700" alt="Legend">
                                 <div class="absolute inset-0 bg-gradient-to-t from-slate-900/90 via-slate-900/50 to-transparent"></div>
                             </div>
                         </div>
@@ -432,7 +432,7 @@ include 'includes/header.php';
                         <div class="relative group">
                             <div class="absolute -inset-4 bg-gradient-to-r from-purple-500 to-pink-600 rounded-2xl blur opacity-25 group-hover:opacity-40 transition duration-1000"></div>
                             <div class="relative rounded-2xl overflow-hidden shadow-2xl h-[400px]">
-                                <img src="https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&q=80&w=800" class="w-full h-full object-cover transform group-hover:scale-105 transition duration-700" alt="Kaika IT & Automation">
+                                <img src="https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&q=80&w=600" class="w-full h-full object-cover transform group-hover:scale-105 transition duration-700" alt="Kaika IT & Automation">
                                 <div class="absolute inset-0 bg-gradient-to-t from-slate-900/90 via-slate-900/50 to-transparent"></div>
                             </div>
                         </div>
@@ -445,7 +445,7 @@ include 'includes/header.php';
                         <div class="relative group order-2 lg:order-1">
                             <div class="absolute -inset-4 bg-gradient-to-r from-red-500 to-orange-600 rounded-2xl blur opacity-25 group-hover:opacity-40 transition duration-1000"></div>
                             <div class="relative rounded-2xl overflow-hidden shadow-2xl h-[400px]">
-                                <img src="https://celiktas.av.tr/wp-content/uploads/2024/09/arac-satis.jpeg" class="w-full h-full object-cover transform group-hover:scale-105 transition duration-700" alt="Kaika International">
+                                <img src="https://images.unsplash.com/photo-1547245324-d777c6f05e80?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="w-full h-full object-cover transform group-hover:scale-105 transition duration-700" alt="Kaika International">
                                 <div class="absolute inset-0 bg-gradient-to-t from-slate-900/90 via-slate-900/50 to-transparent"></div>
                             </div>
                         </div>
@@ -552,7 +552,7 @@ include 'includes/header.php';
                         <div class="relative group">
                             <div class="absolute -inset-4 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-2xl blur opacity-25 group-hover:opacity-40 transition duration-1000"></div>
                             <div class="relative rounded-2xl overflow-hidden shadow-2xl h-[400px]">
-                                <img src="https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&q=80&w=800" class="w-full h-full object-cover transform group-hover:scale-105 transition duration-700" alt="Kaika Logistics">
+                                <img src="https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&q=80&w=600" class="w-full h-full object-cover transform group-hover:scale-105 transition duration-700" alt="Kaika Logistics">
                                 <div class="absolute inset-0 bg-gradient-to-t from-slate-900/90 via-slate-900/50 to-transparent"></div>
                             </div>
                         </div>
@@ -672,7 +672,7 @@ include 'includes/header.php';
                         <div class="relative group">
                             <div class="absolute -inset-4 bg-gradient-to-r from-emerald-500 to-teal-600 rounded-2xl blur opacity-25 group-hover:opacity-40 transition duration-1000"></div>
                             <div class="relative rounded-2xl overflow-hidden shadow-2xl h-[400px]">
-                                <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=800" class="w-full h-full object-cover transform group-hover:scale-105 transition duration-700" alt="Kaika Carriers">
+                                <img src="https://plus.unsplash.com/premium_photo-1723780879422-3840c3c1d78c?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="w-full h-full object-cover transform group-hover:scale-105 transition duration-700" alt="Kaika Carriers">
                                 <div class="absolute inset-0 bg-gradient-to-t from-slate-900/90 via-slate-900/50 to-transparent"></div>
                             </div>
                         </div>

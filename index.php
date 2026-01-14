@@ -125,7 +125,7 @@ include 'includes/header.php';
             <!-- Slide 5: Cars/Kaika International -->
             <div class="hero-slide absolute inset-0 opacity-0 z-0" data-index="4">
                 <div class="absolute inset-0 overflow-hidden">
-                    <img src="https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&q=80&w=2000" class="w-full h-full object-cover animate-ken-burns" alt="Cars">
+                    <img src="https://images.unsplash.com/photo-1547245324-d777c6f05e80?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="w-full h-full object-cover animate-ken-burns" alt="Japanese Vehicle">
                 </div>
                 <div class="absolute inset-0 bg-gradient-to-r from-red-600 to-slate-900 mix-blend-multiply opacity-60"></div>
             </div>
@@ -292,7 +292,7 @@ include 'includes/header.php';
             <div class="reveal-on-scroll" style="transition-delay: 100ms;">
                 <div class="group relative h-96 rounded-2xl overflow-hidden border border-slate-200 bg-white transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl flex flex-col">
                     <div class="absolute inset-0 z-0 opacity-0 group-hover:opacity-100 transition-opacity duration-700">
-                        <img src="https://images.unsplash.com/photo-1579631542720-3a87824fff86?auto=format&fit=crop&q=80&w=600" class="w-full h-full object-cover">
+                        <img src="https://wallpapercat.com/w/full/5/8/8/610794-3840x2160-desktop-4k-sushi-background.jpg" class="w-full h-full object-cover">
                         <div class="absolute inset-0 bg-gradient-to-t from-white via-white/90 to-transparent opacity-95"></div>
                     </div>
                     <div class="relative z-10 p-8 h-full flex flex-col items-start">
@@ -314,7 +314,7 @@ include 'includes/header.php';
             <div class="reveal-on-scroll" style="transition-delay: 150ms;">
                 <div class="group relative h-96 rounded-2xl overflow-hidden border border-slate-200 bg-white transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl flex flex-col">
                     <div class="absolute inset-0 z-0 opacity-0 group-hover:opacity-100 transition-opacity duration-700">
-                        <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&q=80&w=600" class="w-full h-full object-cover">
+                        <img src="https://images.unsplash.com/photo-1612977060650-77024e7aac63?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="w-full h-full object-cover">
                         <div class="absolute inset-0 bg-gradient-to-t from-white via-white/90 to-transparent opacity-95"></div>
                     </div>
                     <div class="relative z-10 p-8 h-full flex flex-col items-start">
@@ -358,7 +358,7 @@ include 'includes/header.php';
             <div class="reveal-on-scroll" style="transition-delay: 250ms;">
                 <div class="group relative h-96 rounded-2xl overflow-hidden border border-slate-200 bg-white transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl flex flex-col">
                     <div class="absolute inset-0 z-0 opacity-0 group-hover:opacity-100 transition-opacity duration-700">
-                        <img src="https://celiktas.av.tr/wp-content/uploads/2024/09/arac-satis.jpeg" class="w-full h-full object-cover">
+                        <img src="https://images.unsplash.com/photo-1547245324-d777c6f05e80?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="w-full h-full object-cover">
                         <div class="absolute inset-0 bg-gradient-to-t from-white via-white/90 to-transparent opacity-95"></div>
                     </div>
                     <div class="relative z-10 p-8 h-full flex flex-col items-start">
@@ -430,7 +430,7 @@ include 'includes/header.php';
             <div class="reveal-on-scroll" style="transition-delay: 400ms;">
                 <div class="group relative h-96 rounded-2xl overflow-hidden border border-slate-200 bg-white transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl flex flex-col">
                     <div class="absolute inset-0 z-0 opacity-0 group-hover:opacity-100 transition-opacity duration-700">
-                        <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=600" class="w-full h-full object-cover">
+                        <img src="https://plus.unsplash.com/premium_photo-1723780879422-3840c3c1d78c?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="w-full h-full object-cover">
                         <div class="absolute inset-0 bg-gradient-to-t from-white via-white/90 to-transparent opacity-95"></div>
                     </div>
                     <div class="relative z-10 p-8 h-full flex flex-col items-start">
@@ -456,7 +456,7 @@ include 'includes/header.php';
 
         <!-- Hover Background Image -->
         <div class="absolute inset-0 z-0 opacity-0 group-hover:opacity-100 transition-opacity duration-700">
-            <img src="https://deih43ym53wif.cloudfront.net/sri-lanka-train-shutterstock_1012027690_7551a96467.jpeg"
+            <img src="../blog/uploads/Kaika_travels.png"
                  class="w-full h-full object-cover" alt="Travel & Tourism">
             <div class="absolute inset-0 bg-gradient-to-t from-white via-white/90 to-transparent opacity-95"></div>
         </div>
